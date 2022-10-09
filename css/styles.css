@@ -170,3 +170,39 @@ a {
   line-height: 1.87;
   color: var(--color-description);
 }
+
+.project-list {
+  list-style-type: none;
+}
+
+.nav-header {
+  list-style-type: none;
+}
+
+.nav-contact {
+  list-style-type: none;
+}
+
+.secondary-section ul {
+  list-style-type: none;
+}
+
+.occupation-section ul {
+  list-style-type: none;
+}
+
+.team ul {
+  list-style-type: none;
+}
+
+.footer-contact ul {
+  list-style-type: none;
+}
+
+.project ul {
+  list-style-type: none;
+}
+
+.button-list ul {
+  list-style-type: none;
+}
